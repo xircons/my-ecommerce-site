@@ -1,0 +1,18 @@
+[
+  {
+    "firstName": "w",
+    "lastName": "s",
+    "email": "",
+    "password": "1",
+    "occupationCategory": "Computer",
+    "occupation": "Test engineer"
+  },
+  {
+    "firstName": "Wuttikan",
+    "lastName": "Suksan",
+    "email": "wutthikan_s@cmu.ac.th",
+    "password": "1",
+    "occupationCategory": "Computer",
+    "occupation": "Test engineer"
+  }
+]
